@@ -1,0 +1,18 @@
+- Trade evalution will need to be change to max players allowed, right it's just set to 25
+if whatPlayer == "getPlayers": countLimit = 25
+- create warning, stats may be off
+- put the number that spells out "Justin is awesome" on a phone in the bottom right hand corner of the gui
+or put it in the title
+- Have plots style be adjustable to users
+- Have a pop message first timed the programed is use, to tell them if they lose money, that's on them
+- Have it say a var in the data_base = "Accept" once they hit accept
+- No stats found T.Y. Hilton
+- For whatever reason I made RB year a string in the database
+- ['Green', 'BenJarvus', 'RB', '1985'] no stats for this dude
+- Save most data into the DB, so the GUI doesn't have to do the work
+- Eldmen was hurt last year, account for injuries in the two years trend and fantasy points last year
+- When I update the database turn all empties to zeros
+- Fix plotting and mock to include QB rushing
+- In save date fantasy stats, ensure only fantasy stats from last year
+- Alex Smith, QB, round 49?!?!?!
+- David Johnson RB, ARZ has both stats ... NYG David Johnson and ARZ
