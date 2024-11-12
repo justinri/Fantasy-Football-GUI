@@ -1,5 +1,5 @@
 # Fantasy Football GUI
-A GUI that assists users in making fantasy football decisions by comparing statistics, advising on draft choices, evaluating trade proposals, and more. (Yes, I should have used a folder to store the modules.) This is another project I did for fun, as I wanted to learn how to create a GUI (graphical user interface).
+A GUI (graphical user interface) that assists users in making fantasy football decisions by comparing statistics, advising on draft choices, evaluating trade proposals, and more. (Yes, I should have used a folder to store the modules.) This is another project I did for fun, as I wanted to learn how to create a GUI.
 
 ## Additional capabilities of the GUI include:
 - Includes a tutorial on how to use it
